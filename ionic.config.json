@@ -1,0 +1,8 @@
+{
+  "name": "Demo_Redes_Sociales",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
