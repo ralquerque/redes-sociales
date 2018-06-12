@@ -1,0 +1,4 @@
+#Mon Jun 11 19:20:14 COT 2018
+base.0=/Users/rodolfoalquerquesuarez/Documents/Proyectos/Angular-Ionic/Redes_sociales/Proyecto-Redes-Sociales/platforms/android/app/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/Users/rodolfoalquerquesuarez/Documents/Proyectos/Angular-Ionic/Redes_sociales/Proyecto-Redes-Sociales/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex
